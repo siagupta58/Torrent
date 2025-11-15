@@ -1,4 +1,4 @@
-path: /kaggle/input/military-assets-dataset-12-classes-yolo8-format/military_object_dataset
+path: C:/Users/siagu/Downloads/military_object_dataset
 test: test/images
 train: train/images
 val: val/images
