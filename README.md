@@ -1,4 +1,5 @@
 # Torrent
+Build by Sia Gupta
 Torrent is a concept for defense hardware that reconstructs a soldier's 
 surroundings in 3D, in real time, from their own perspective. It's built 
 to give infantry spatial awareness in close-quarters combat, where GPS 
